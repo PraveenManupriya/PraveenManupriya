@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Praveen Manupriya</h1>
-<h3 align="right">Software Developer</h3>
+<h1 align="left">Welcome 👋, I'm Praveen Manupriya</h1>
+<h3 align="left">Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenmanupriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
