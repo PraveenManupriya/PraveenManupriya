@@ -63,9 +63,9 @@
 
 ### 🌟 Featured Projects 
 
-🔹 **[Technova E-commerce Website](https://git@github.com:PraveenManupriya/TechNova-Shopping-Web-Site.git)** - A modern e-commerce platform with seamless shopping experience.
-🔹 **[Scholar Sync Website](https://git@github.com:PraveenManupriya/Education-Management-Website.git)** - A platform designed to streamline educational resources and collaboration.  
-🔹 **[Age-Recognition-with-DeepFace ](https://git@github.com:PraveenManupriya/Age-Recognition-with-DeepFace.git)** - A deep learning model that predicts a person's age using DeepFace.
+🔹 **[Technova E-commerce Website](https://github.com:PraveenManupriya/TechNova-Shopping-Web-Site.git)** - A modern e-commerce platform with seamless shopping experience.<br>
+🔹 **[Scholar Sync Website](https://github.com:PraveenManupriya/Education-Management-Website.git)** - A platform designed to streamline educational resources and collaboration.  
+🔹 **[Age-Recognition-with-DeepFace ](https://github.com:PraveenManupriya/Age-Recognition-with-DeepFace.git)** - A deep learning model that predicts a person's age using DeepFace.
   
 ---
 
