@@ -1,6 +1,11 @@
 <h1 align="left">Welcome to My Profile👋</h1>
-<h3 align="left">Software Developer</h3>
 
+
+<h2 align="left"> About Me </h2>
+  <p> I am a passionate and dedicated software developer with a strong foundation in software engineering. I building on my completed Software Development course at VTA Baddegama. My hands-on experience includes developing web applications, managing databases, and integrating frontend and backend technologies. I am eager to contribute my skills to real-world projects and am committed to continuous learning and growth in the field.</p>
+
+<h3 align="left">Software Developer</h3>
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenmanupriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
