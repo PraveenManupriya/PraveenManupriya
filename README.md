@@ -62,10 +62,9 @@
 ---
 
 ### 🌟 Featured Projects
-🔹 **[Technova E-commerce Website](https://github.com/PraveenManupriya/technova-ecommerce)** - A modern e-commerce platform with seamless shopping experience.  
-🔹 **[Scholar Sync Website](https://github.com/PraveenManupriya/scholar-sync)** - A platform designed to streamline educational resources and collaboration.  
-🔹 **[IoT-Based Water Management System](https://github.com/PraveenManupriya/water-management)** - A smart water monitoring and management system using IoT & AI.  
-
+🔹 **[Technova E-commerce Website](git@github.com:PraveenManupriya/TechNova-Shopping-Web-Site.git)** - A modern e-commerce platform with seamless shopping experience.  
+🔹 **[Scholar Sync Website](git@github.com:PraveenManupriya/Education-Management-Website.git)** - A platform designed to streamline educational resources and collaboration.  
+🔹 **[Age-Recognition-with-DeepFace ](git@github.com:PraveenManupriya/Age-Recognition-with-DeepFace.git)** - A deep learning model that predicts a person's age using DeepFace.
 ---
 
 ### ⚡ Fun Fact  
